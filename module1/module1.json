@@ -16,7 +16,7 @@
 	"GOENV": "C:\\Users\\Student\\AppData\\Roaming\\go\\env",
 	"GOEXE": ".exe",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-m64 -mthreads -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=C:\\Users\\Student\\AppData\\Local\\Temp\\go-build739317974=/tmp/go-build -gno-record-gcc-switches",
+	"GOGCCFLAGS": "-m64 -mthreads -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=C:\\Users\\Student\\AppData\\Local\\Temp\\go-build011075850=/tmp/go-build -gno-record-gcc-switches",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "windows",
 	"GOINSECURE": "",
